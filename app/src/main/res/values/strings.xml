@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="about">Write about yourself</string>
+    <string name="next">Next</string>
+    <string name="PREFERENCE_FILE_KEY">com.apprensics.quizapp.PREFERENCE_FILE_KEY</string>
+</resources>
